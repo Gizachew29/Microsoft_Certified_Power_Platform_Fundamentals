@@ -4,3 +4,4 @@ The Microsoft Certified: Power Platform Fundamentals certification could be a gr
 
 Demonstrate knowledge in building solutions with Microsoft Power Platform.
 Show familiarity in automating basic business processes with Power Automate and in creating simple Power Apps experiences.
+Highlight familiarity in performing data analysis with Power BI and in building practical chatbots with Power Virtual Agents.
