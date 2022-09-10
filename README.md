@@ -7,4 +7,4 @@ Show familiarity in automating basic business processes with Power Automate and 
 Highlight familiarity in performing data analysis with Power BI and in building practical chatbots with Power Virtual Agents.
 It is recommended to have familiarity with computer technology, data analytics, cloud computing, and the internet. This fundamentals certification can serve as a steppingstone for anyone interested in advancing to other certifications.
 To ensure you are prepared for the exam, we recommend:
-Fully understanding the skills measured.
+Fully understanding the skills measured.Studying the relevant self-paced content on Microsoft Learn or signing up for an instructor-led training event.
