@@ -10,4 +10,4 @@ To ensure you are prepared for the exam, we recommend:
 Fully understanding the skills measured.
 Studying the relevant self-paced content on Microsoft Learn or signing up for an instructor-led training event.
 Taking the practice exam to validate your knowledge and understanding of the exam experience.
-Shadowing a person on your team who works with Microsoft Power Platform
+Shadowing a person on your team who works with Microsoft Power Platform.
