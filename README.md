@@ -13,4 +13,4 @@ Taking the practice exam to validate your knowledge and understanding of the exa
 Shadowing a person on your team who works with Microsoft Power Platform.
 
 
-Here everything 
+Here everything evolves around the topic
